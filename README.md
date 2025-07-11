@@ -39,14 +39,26 @@ project/
 │ └── images/
 │
 ├── templates/
-│ ├── header.html # Reusable header/navigation bar
+│ ├── header.html # Reusable header
 │ ├── footer.html # Reusable footer
-│ ├── layout.html # Base template (optional)
 │ ├── index.html # Home page with blog list
 │ ├── about.html
 │ ├── contact.html
 │ ├── post.html # Individual blog post view
 │
 ├── main.py
-├── requirements.txt
 └── README.md
+
+
+Install required packages:
+  pip install Flask
+
+
+
+
+
+
+
+
+
+
