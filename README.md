@@ -9,11 +9,10 @@ This is a personal blog website built using **Flask**, **HTML**, **CSS**, and **
 - 📰 **Dynamic blog posts** loaded from a [Npoint](https://www.npoint.io/) JSON API
 - 📱 Responsive layout using Bootstrap
 - 🔗 Navbar with:
-  - Home
-  - About
-  - Sample Post
-  - Contact
-- 📧 Contact form using `POST` request to send emails
+    - Home
+    - About
+    - Sample Post
+    -  📧 Contact (form sending emails to my account)
 - 🔗 Footer with a GitHub profile link
 - 💬 Clean and modern user interface
 
